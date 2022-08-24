@@ -6,3 +6,4 @@ b=25
 c=a+b
 
 print(c)
+print(raju)
